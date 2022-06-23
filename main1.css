@@ -1,0 +1,131 @@
+/* This is my comment */
+body{
+color:black;
+font-size: 12px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+color:darkmagenta;
+font-size: 3em;   
+}
+
+.second-para {
+    color:darkblue;
+    background-color:aliceblue;
+}
+#Titi1 {
+    color:darkblue;
+    background-color: aliceblue;
+}
+
+#Titi2 {
+    color:darkblue;
+    background-color: aliceblue;
+}
+
+#Titi3 {
+    color:darkblue;
+    background-color: aliceblue;
+}
+#Titi {
+    color:darkmagenta;
+    background-color: antiquewhite;
+}
+
+#titi4 {
+    color: darkblue;
+    background-color: aliceblue;
+}
+
+#titi5 {
+    color: darkblue;
+    background-color: aliceblue;
+}
+h2 {
+    color: darkmagenta;
+    background-color: antiquewhite;
+}
+.first-para {
+    color:darkblue;
+    background-color: aliceblue;
+}
+#Temi {
+    color:darkblue;
+    background-color: aliceblue;
+}
+#Temi1 {
+    color:darkblue;
+    background-color: aliceblue;
+}
+#temi {
+    color:darkblue;
+    background-color: aliceblue;
+}
+#temi1{
+    color:darkblue;
+    background-color: aliceblue;
+}
+#temi2{
+    color: darkblue;
+    background-color: aliceblue;
+}
+#temi3{
+    color: darkblue;
+    background-color: aliceblue;
+}
+#temi4{
+    color: darkblue;
+    background-color: aliceblue;
+}
+#temi5{
+    color:darkblue;
+    background-color: aliceblue;
+}
+#temi6{
+    color:darkblue;
+    background-color: aliceblue;
+}
+#temi7{
+    color:darkblue;
+    background-color: aliceblue;
+}
+#temi8{
+    color: darkblue;
+    background-color: aliceblue;
+}
+#temi9{
+    color: darkblue;
+    background-color: aliceblue;
+}
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.nav-item{
+    display:flex;
+    box-sizing: border-box;
+    background-color: darkmagenta;
+    color: white;
+    padding: 10px;
+    border-color: black;
+    border-width: 2px;
+    border-style: none;
+    border-radius: 30px;
+    width: 100px;
+    justify-content: center;
+}
+
+.nav-header{
+    display: flex;
+    box-sizing: border-box;
+    padding: 0px;
+    width: 150px;
+    border-radius: 25px;
+    justify-content: center;
+
+}
